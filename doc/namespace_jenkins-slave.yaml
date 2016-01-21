@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: jenkins-slave
+  labels:
+    name: jenkins-slave
